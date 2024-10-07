@@ -1,8 +1,7 @@
 import * as React from 'react'
 import { renderToString } from 'react-dom/server'
 import { Container } from '@chakra-ui/react';
-import { styled, ServerStyleSheet } from 'styled-components'
-import juice from 'juice'
+import { styled, ServerStyleSheet } from "styled-components";
 import { EmailHeading } from './EmailHeading';
 
 
